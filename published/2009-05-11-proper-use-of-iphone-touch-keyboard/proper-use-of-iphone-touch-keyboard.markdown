@@ -16,16 +16,16 @@ The first trick to mastering the iPhone keyboard is to set up your language pref
 
 First you should access your Settings and navigate to General, then select Keyboard:
 
-![Keyboard](2009-05-11-proper-use-of-iphone-touch-keyboard-Keyboard.jpg)
+![Keyboard](Keyboard.jpg)
 
 Look at the bottom of the Keyboard screen. The International Keyboards screen will help you choose more than one keyboard to be used on any text entry across the iPhone OS. Toggle Spanish so that you have BOTH English and Spanish enabled.
 
-![International Keyboard](2009-05-11-proper-use-of-iphone-touch-keyboard-InternationalKeyboard.jpg)
-![Keyboard](2009-05-11-proper-use-of-iphone-touch-keyboard-Keyboards.jpg)
+![International Keyboard](InternationalKeyboard.jpg)
+![Keyboard](Keyboards.jpg)
 
 Doing so will enable a small Globe icon whenever the keyboard pops up. This will be your new best friend when it comes to writing a mixture of English and Spanish on your iPhone.
 
-![Keyboard Select](2009-05-11-proper-use-of-iphone-touch-keyboard-KeyboardSelect.jpg)
+![Keyboard Select](KeyboardSelect.jpg)
 
 Whenever you hit this Globe icon, the keyboard layout will change between English, Spanish and any other keyboard you may have enabled (for fun, try the Japanese keyboards). Of course, you should choose either English or Spanish when you are writing mostly in just one of the languages.
 

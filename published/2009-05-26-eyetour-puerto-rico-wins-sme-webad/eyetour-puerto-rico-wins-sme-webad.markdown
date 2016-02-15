@@ -5,7 +5,7 @@ title: EyeTour Puerto Rico Wins SME WebAd Award 2009
 time: 2009-05-26 21:40:00 -04:00
 comments: true
 ---
-![SME Best Website Award](2009-05-26-eyetour-puerto-rico-wins-sme-webad-EyeTour-BestWebsite-SME-WebAdAward-Trophy.jpg)
+![SME Best Website Award](EyeTour-BestWebsite-SME-WebAdAward-Trophy.jpg)
 
 [EyeTour.com](http://eyetour.com/), _Puerto Rico&rsquo;s Premier Online Video Guide_, won the 2009 WebAd Award for best website of the year, given by the [Sales and Marketing Executives Association (SME) of Puerto Rico](http://www.smepr.org/).
 
@@ -19,6 +19,6 @@ By June 2009, EyeTour.com will have reached some 150,000 visitors from around th
 
 The WebAd Awards recognize the best use of the Internet in five categories: 1) best integration in a 360&ordm; campaign, 2) best integration in a public relations or non‐profit campaign, 3) best integration in a promotional campaign, 4) best internet advertisement, and 5) best website.
 
-![The EyeTour Team accepts the award for Best Website.](2009-05-26-eyetour-puerto-rico-wins-sme-webad-EyeTourTeam.jpg)
+![The EyeTour Team accepts the award for Best Website.](EyeTourTeam.jpg)
 
 The EyeTour production and web development team consists of Jos&eacute; Mart&iacute;, Juan Agust&iacute;n M&aacute;rquez, Alfredo Richner, Pablo L&oacute;pez, Adri&aacute;n Richner, Gabriel S&aacute;nchez, Andr&eacute;s Richner, Sherman Wildman, Danette Hudoba, Jacob Serlen, and Gerardo Rodriguez. Congratulations!
