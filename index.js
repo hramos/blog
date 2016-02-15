@@ -60,7 +60,7 @@ function getMatches(string, regex, index) {
 }
 
 
-// For each markdown file, find any hrefs to external hosts and download assets to local folder, then rewrite href
+// For each markdown file, find any hrefs to external hosts and download assets to local folder
 var externalImagesToLocal = function() {
   glob("published/**/*.md", function (er, files) {
     for (var i=0; i<files.length; i++) {
@@ -89,5 +89,3 @@ var externalImagesToLocal = function() {
     }
   });
 }
-
-externalImagesToLocal();
