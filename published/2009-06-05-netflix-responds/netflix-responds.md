@@ -7,10 +7,10 @@ comments: true
 ---
 I received an e-mail from Netflix today. It seems like they want me back as a client!
 
-![](http://c185824.r24.cf1.rackcdn.com/comeback.JPG)
+![](comeback.JPG)
 
 They are even offering me their *instant watch* feature:
-![](http://c185824.r24.cf1.rackcdn.com/comebackiw.JPG)
+![](comebackiw.JPG)
 
 Of course, as soon as I sign up with them again, they&#8217;ll tell me the feature is not available in Puerto Rico. Even though they keep advertising it when they ask me to come back after I cancelled the service for not being able to use Instant Watch.
 

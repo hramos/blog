@@ -9,6 +9,6 @@ That simple statement has created an uproar in Puerto Rico. “Rivieras del Cari
 
 The phrase was quickly picked up by the Puerto Rican Twitter community. A common comeback for any kind of whine is, well, “such is life!” In honor of the phrase, [redod has created a new design to commemorate the life of the rich and affluent](http://redod.com/?p=29)!
 
-[![OK, so inspiration turned the design into a Sushi chef stylization of Jaime Gonzalez, and the phrase might have been changed a little, but hey, such is life!](http://c185824.r24.cf1.rackcdn.com/3835484-3967237-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/Sushi-Is-Life-copy.jpg)
+[![OK, so inspiration turned the design into a Sushi chef stylization of Jaime Gonzalez, and the phrase might have been changed a little, but hey, such is life!](3835484-3967237-thumbnail.jpg)](Sushi-Is-Life-copy.jpg)
 
 The design has been uploaded to [CafePress](http://www.cafepress.com/redod), for the sole enjoyment of those who can afford to [buy a T-Shirt](http://www.cafepress.com/redod)! If you can’t, well, like redod, says, you may stroll in and look at the designs, you won’t get charged for that.

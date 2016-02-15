@@ -18,13 +18,13 @@ For all those fellow developers which I am hoping I will get to meet soon, the r
 
 ## Finding the Right Laptop Bag
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4481.jpg)
+![](IMG_4481.jpg)
 
 When I got my Macbook, I ordered a homemade sleeve from <a href="http://www.etsy.com">Etsy</a> as an attempt to give my new machine a unique touch. The sleeve served its purpose and protected the Macbook during its three month stay in a leather briefcase which I hoped would not make me look like a college kid at my workplace. However, it was bulky and stiff and the straps broke loose. So I got myself a Targus checkpoint ready laptop backpack.
 
 Although I would prefer a messenger bag or something with a single strap that would look less like what something a college kid would carry, I had to consider the trip and the need for lots of storage space plus it had to help me get through the TSA with minimal handling of the laptop itself. The bag is the zipper-through kind, which opens up like a clam and leaves the laptop in just one side, with no metal zippers or accessories below it which hopefully will make it clear enough that it is a laptop when seen through the airport X-ray machine.
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4479.JPG)
+![](IMG_4479.JPG)
 
 It has enough pockets to hold my keyboard, mouse, extra power adapter (I have one permanently on my desk, and another in the bag - expensive at $80 a pop, but oh so convenient) and various notebooks and miscellanea which I will get to shortly.
 
@@ -32,17 +32,17 @@ The bag was purchased at CompUSA - yes, the once defunct company. It was purchas
 
 ## What&#8217;s In My Laptop Bag?
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4473.JPG)
+![](IMG_4473.JPG)
 
 As I mentioned already, it holds my Macbook (2009, unibody, 2.4Ghz), the Wireless Apple keyboard and extra charger. I will cover in a future post the whole contents of the bag as the departure date approaches, but I wanted to get to one neat item I found yesterday while shopping at Border&#8217;s in <a href="http://www.plazalasamericas.net/">Plaza las Americas</a>.
 
 I bought my first <a href="http://www.moleskine.com/">Moleskine</a> notebook. But it is no plain notebook - it is actually a <a href="http://www.moleskine.com/moleskinecity/cities/san_francisco.php">San Francisco city guide</a>! It contains maps of public transportation available in San Francisco (<a href="http://www.bart.gov">BART</a> and <a href="http://www.sfmta.com/cms/home/sfmta.php">Muni</a>). I would describe it as the analog version of my iPhone - when my battery is dead or reception is bad, I can still whip out the notebook and look up my schedule, glance at the maps, or simply add to my travel journal.
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4475.JPG)
+![](IMG_4475.JPG)
 
 This is the general area I will be in for the whole week. The Moleskine has these transparent sheets that you can lay over any page, allowing you to mark it up without ruining the map. I&#8217;ve marked the Moscone Center and a nearby Apple Store.
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4476.JPG)
+![](IMG_4476.JPG)
 
 As you can see, it also contains a few tabbed pages where I plan to write down all the suggested places I will want to visit or just keep a log of those I&#8217;ve visited on my trip. I believe this will make for a very unique keepsake of my first trip to San Francisco.
 
@@ -50,7 +50,7 @@ As you can see, it also contains a few tabbed pages where I plan to write down a
 
 No more pictures for now - that&#8217;s for the later post. Meanwhile, here&#8217;s a basic checklist of what I will take with me:
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4484.JPG)
+![](IMG_4484.JPG)
 
 * Macbook
 * MagSafe Adapter
@@ -72,4 +72,4 @@ No more pictures for now - that&#8217;s for the later post. Meanwhile, here&#821
 
 Lonely Planet, makers of popular city exploring guides, has placed their <a href="http://appshopper.com/travel/lonely-planet-san-francisco-city-guide">San Francisco iPhone app on sale</a> in anticipation of WWDC. The price is great: FREE. This, along with my Moleskine city guide and friend&#8217;s recommendations, shall be enough to get me around San Francisco on those rare chances I might get to explore the city.
 
-![](http://c185824.r24.cf1.rackcdn.com/IMG_4478.JPG)
+![](IMG_4478.JPG)

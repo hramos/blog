@@ -1,11 +1,11 @@
---- 
+---
 name: explosion-in-puerto-rico
 layout: post
 title: Explosion in Puerto Rico
 time: 2009-10-23 01:10:00 -04:00
 comments: true
 ---
-[![](http://c185824.r24.cf1.rackcdn.com/3835484-4532563-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/Screen%2520shot%25202009-10-23%2520at%25201.11.23%2520AM.png)
+[![](3835484-4532563-thumbnail.jpg)](Screen%2520shot%25202009-10-23%2520at%25201.11.23%2520AM.png)
 
 A huge explosion was felt across the San Juan Metro Area in Puerto Rico around 12:25AM EST. Myself, I woke up thinking someone had broken into my house. However, I live 10 miles or so away from the apparent epicenter. People closer to the San Juan, Bayamon and Guaynabo area report feeling a whooshing sound or sonic boom, followed by shaking. Windows have broken near the explosion.
 

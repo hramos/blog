@@ -8,7 +8,7 @@ categories: sxsw
 ---
 
 
-![Danah Boyd’s opening remarks at SXSWi](http://c185824.r24.cf1.rackcdn.com/danah-boyd-opening.jpg)
+![Danah Boyd’s opening remarks at SXSWi](danah-boyd-opening.jpg)
 
 I’ve been back in Puerto Rico for the last two days or so, decompressing from the trip to Austin and getting ready to get back to work. There is so much I want to write about the different panels and events I attended, but even after two days, I haven’t got the notion of where to start.
 
@@ -20,7 +20,7 @@ Here’s a teaser for SXSW2010 from last year (filmed at previous SXSWs):
 
 The events I assisted formally are collectively known as SXSW Film+Interactive. The Gold Badge grants its wearer access to all the Film and Interactive tracks, badge events and film screenings throughout Austin. Interactive, by itself, lasted from March 12 to March 16. Film panels were held from March 12 to March 16 as well, but film screenings went on through March 20. The Music festival itself is held from March 17 to March 21.
 
-![](http://c185824.r24.cf1.rackcdn.com/Screen shot 2010-03-22 at 8.51.58 PM.png)
+![](Screen shot 2010-03-22 at 8.51.58 PM.png)
 
 This is a point that was initially confusing to me when I was arranging travel and lodging. I didn’t want to leave while Film was still going on, but I was told that Music was too crazy. I ended up staying from March 11 to March 19 in Austin, which I believe was a great choice and worked out very well. I was able to go to the Interactive panels, and still had two days to catch up some film screenings I’d missed - all while being able to take in the Music festivities.
 
@@ -44,7 +44,7 @@ Get a battery pack - ideally a rechargeable one. Carry two, if possible. This ye
 
 I never ran out of battery, although quite a few times I dipped under 10%. My method was to carry a [Griffin PowerDuo](http://www.amazon.com/gp/product/B002SOG4NI?ie=UTF8&tag=hectorrcom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002SOG4NI), a backup battery along with its recharging base station - both are small enough to fit in your pants pocket. On the go, the battery pack would keep the iPhone charged up between 95% and 100%. In between panels, I’d recharge the pack as much as I could. Most rooms do have outlets, so the station made it easy to plug it in and go away without being tethered. If you could stay near the outlet, then its even better - the base station has a USB port which allowed me to charge the iPhone while recharging the battery.
 
-[![](http://c185824.r24.cf1.rackcdn.com/31SSoq04bpL._SL160_.jpg)](http://www.amazon.com/gp/product/B001Q2FM2W?ie=UTF8&tag=hectorrcom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001Q2FM2W)
+[![](31SSoq04bpL._SL160_.jpg)](http://www.amazon.com/gp/product/B001Q2FM2W?ie=UTF8&tag=hectorrcom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001Q2FM2W)
 
 Another tool at my disposal was a [Griffin TuneJuice Charger](http://www.amazon.com/gp/product/B001DQNAJ8?ie=UTF8&tag=hectorrcom-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001DQNAJ8)![](http://www.assoc-amazon.com/e/ir?t=hectorrcom-20&l=as2&o=1&a=B001DQNAJ8) which was given out by Groupon at their breakfast event. The charger fits four AA batteries, and while it can’t recharge them, it allows you to throw as many AAs as you can fit into your backpack, or even buy some extra AAs in an emergency, and charge your iPhone with it. The four included AAs helped me get back to 33% only, which is just about as much as the PowerDuo does as well.
 

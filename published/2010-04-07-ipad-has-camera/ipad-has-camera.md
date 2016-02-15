@@ -8,7 +8,7 @@ categories: apps
 ---
 …and it’s called [ImageShare](/apps/imageshare.html).
 
-[![](http://c185824.r24.cf1.rackcdn.com/original-4.png)](/apps/imageshare.html)That is, if you also have an iPhone. Using my (long without updates) iPhone application on both the iPad and iPhone you can take pictures and have them transfered to your iPad immediately through the Bluetooth connection.
+[![](original-4.png)](/apps/imageshare.html)That is, if you also have an iPhone. Using my (long without updates) iPhone application on both the iPad and iPhone you can take pictures and have them transfered to your iPad immediately through the Bluetooth connection.
 
 Simply pair the iPad and iPhone by running [ImageShare](http://www.hectorramos.com/apps/imageshare.html) on both. Select the Camera option when selecting which image to share, and snap your picture. Share it with your iPad and it will be saved to your local Photo Album.
 

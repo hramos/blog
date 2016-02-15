@@ -5,7 +5,7 @@ title: "Apple Tablet: iPad"
 time: 2010-01-27 15:15:00 -04:00
 comments: true
 ---
-![](http://c185824.r24.cf1.rackcdn.com/dimensions_20100127.jpg)
+![](dimensions_20100127.jpg)
 
 Exciting day! Apple finally unveiled their latest product: [the iPad](http://www.apple.com/ipad/).
 

@@ -8,7 +8,7 @@ keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneur
 categories: startups
 ---
 
-![](http://c185824.r24.cf1.rackcdn.com/swpr.jpg)
+![](swpr.jpg)
 
 If you're in Puerto Rico for the weekend of October the 14th, be sure to check out [Startup Weekend Puerto Rico](http://puertorico.startupweekend.org/ "Startup Weekend Puerto Rico"). You'll have just 54 hours to build a business by teaming up with entrepreneurial people from various backgrounds.
 

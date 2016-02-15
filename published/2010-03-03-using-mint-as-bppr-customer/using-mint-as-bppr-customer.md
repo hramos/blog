@@ -8,7 +8,7 @@ categories: mint
 ---
  
 
-![](http://c185824.r24.cf1.rackcdn.com/Screen shot 2010-03-03 at 2.20.28 PM.png)
+![](Screen shot 2010-03-03 at 2.20.28 PM.png)
 
 For almost two years, we’ve been trying to get [Mint](http://www.mint.com) to work with [Banco Popular de Puerto Rico](http://www.popular.com)’s accounts. It all began with the migration to the current 3rd generation BPPR version.
 
@@ -16,13 +16,13 @@ Some background, first. Mint is a personal finance manager that launched at [Tec
 
 To work with your transactions, Mint needs access to your online banking website. Mint employs the services of [Yodlee](http://www.yodlee.com) to aggregate all of your accounts. What Yodlee does is abstract the process of scraping your online banking website, providing a single API for Mint and [other customers](http://www.blippy.com). Yodlee has a database of the most popular online banking sites, their URLs, and their login process.
 
-![](http://c185824.r24.cf1.rackcdn.com/Screen%20shot%202010-03-03%20at%202.37.04%20PM.png)
+![](Screen%20shot%202010-03-03%20at%202.37.04%20PM.png)
 
 So the problem seems to have appeared when BPPR started using multitiered authentication. A weird occurrence, since Yodlee and PassMark (now RSA, providers of multitier authentication to many banks) have a ‘[strategic alliance](http://www.highbeam.com/doc/1G1-128053528.html)’ which should help them deal with these types of logins. It was not showing all of the security questions available to BPPR customers. It seemed to be in part due to BPPR’s use of both English and Spanish security questions. I won’t go into any more detail - what I am discussing is pretty obvious for the savvy user, but I get a feeling that most executives would not like it if I went into a detailed account of how the authentication system works.
 
 [](javascript:showFullImage('/display/ShowImage?imageUrl=%2Fstorage%2Fpost-images%2FScreen%20shot%202010-03-03%20at%202.23.01%20PM.png%3F__SQUARESPACE_CACHEVERSION%3D1267640682268',341,553);)
 
-![](http://c185824.r24.cf1.rackcdn.com/3835484-5992265-thumbnail.jpg)
+![](3835484-5992265-thumbnail.jpg)
 
 After some back and forth with Mint and later Yodlee, it seems like it is finally working. Please note that I am speaking from my personal point of view, and you should wait for any official statement from BPPR. In the meantime, I will share various tips that might help you link your BPPR account with Mint.
 
@@ -40,7 +40,7 @@ After some back and forth with Mint and later Yodlee, it seems like it is finall
 
 *   Some users report that using the same answer for all security questions helped them. It should still work with different answers to each question, but perhaps this can also help if your questions were set up in English initially. Your mileage may vary.
 
-![](http://c185824.r24.cf1.rackcdn.com/3835484-5992289-thumbnail.jpg)
+![](3835484-5992289-thumbnail.jpg)
 
 That’s it. Please discuss which methods worked and which didn’t, as we collect all these tips and get nearer to having Mint available for everybody.
 

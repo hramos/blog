@@ -6,7 +6,7 @@ time: 2010-02-03 17:53:00 -04:00
 comments: true
 categories: tv
 ---
-![](http://c185824.r24.cf1.rackcdn.com/tumblr_krofk4GeKE1qz6kbro1_500.jpg)
+![](tumblr_krofk4GeKE1qz6kbro1_500.jpg)
 
 Yes, this is the mandatory [LOST](http://en.wikipedia.org/wiki/Lost_(TV_series)) post. If you are no fan of the show, or you haven’t watched the Season 6 Premier, then I recommend skipping this post.
 

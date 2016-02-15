@@ -10,5 +10,5 @@ Hey guys — a quick note, as these last few weeks have been hectic, putting the
 
  
 
-![](http://c185824.r24.cf1.rackcdn.com/Buzz-0.png)
+![](Buzz-0.png)
 

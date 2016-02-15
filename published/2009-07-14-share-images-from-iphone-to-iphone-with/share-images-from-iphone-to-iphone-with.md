@@ -7,7 +7,7 @@ comments: true
 ---
 We’ve released a [new application](/apps) for the iPhone and iPod Touch which allows users to send and receive images without the need of a network (cell or Wi-Fi) connection. This is due to the Bluetooth capabilities unlocked by iPhone OS 3.0.
 
-![](http://c185824.r24.cf1.rackcdn.com/original-4.png)
+![](original-4.png)
 
 How does it work? After pairing both devices by launching [ImageShare](/apps/imageshare), you can just go ahead and take a new picture or select one from your photo albums. Hit Send, and the image smoothly slides over to the other iPhone or iPod. It is automatically saved to the receiver’s photo album. That is all there is to it!
 

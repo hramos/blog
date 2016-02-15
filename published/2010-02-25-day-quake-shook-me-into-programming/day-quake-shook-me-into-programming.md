@@ -6,7 +6,7 @@ time: 2010-02-25 08:44:00 -04:00
 comments: true
 categories: code
 ---
-[![](http://c185824.r24.cf1.rackcdn.com/3835484-5905637-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/post-images%2Fquake.jpg)
+[![](3835484-5905637-thumbnail.jpg)](post-images%2Fquake.jpg)
 
 Yesterday saw the [14 year anniversary of QTest’s release](http://bethblog.com/index.php/2010/02/24/the-day-quake-shook-the-gaming-world-carmack-et-al-share-their-qtest-memories/). I still remember that day.
 

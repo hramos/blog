@@ -3,6 +3,7 @@
 var glob = require("glob")
 var fs = require("fs")
 var toMarkdown = require("to-markdown")
+var wget = require('wget');
 
 var htmlToMarkdown = function() {
   glob("published/*.html", function (er, files) {
@@ -48,6 +49,17 @@ var markdownToSubdirectories = function() {
   })
 }
 
+function getMatches(string, regex, index) {
+  index || (index = 1); // default to the first capturing group
+  var matches = [];
+  var match;
+  while (match = regex.exec(string)) {
+    matches.push(match[index]);
+  }
+  return matches;
+}
+
+
 // For each markdown file, find any hrefs to external hosts and download assets to local folder, then rewrite href
 var externalImagesToLocal = function() {
   glob("published/**/*.md", function (er, files) {
@@ -56,13 +68,23 @@ var externalImagesToLocal = function() {
       var fileContents = fs.readFileSync(file, "utf8");
 
       // First, convert links to images to markdown.
-      var images = fileContents.match(/<img src=\"(.*)$/gm);
-      if (images) {
-        console.log(file)
-        // console.log(images)
-        var image = images[1];
-        var thumbnail = images[2];
-        // console.log(file + ": Found image " + image + " with thumb " + thumbnail);
+      var urls = fileContents.match(/https?:\/\/c185824.r24.cf1.rackcdn.com\/([^)>\]]*[.jpe?g|.png])/g);
+      var images = getMatches(fileContents, /https?:\/\/c185824.r24.cf1.rackcdn.com\/([^)>\]]*[.jpe?g|.png])/ig, 1)
+      if (urls) {
+        console.log(urls)
+        var permalink = file.match(/\d{4}-\d{2}-\d{2}-.*\//);
+        var directory = "published/" + permalink;
+
+        for (var j=0; j<urls.length;j++) {
+          var url = urls[j];
+
+          var output = directory + images[j]
+          console.log("I would download " + url + " to " + output)
+          var download = wget.download(url, output, {});
+          download.on('error', function(err) {
+              console.log(err + ": " + url);
+          });
+        }
       }
     }
   });

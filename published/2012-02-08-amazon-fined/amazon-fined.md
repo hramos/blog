@@ -31,8 +31,8 @@ Another thing you might want to look into: Puerto Rico consumers can actually ge
 
 I signed up for Amazon Prime anyway - the first month is free - and made a couple of orders. Huh, what do you know, this Free Super Saver shipping order is being shipped by UPS 2nd Day Air. Nah, that was a mistake. Let's try again. ParcelPool? What the heck is ParcelPool? Ah! It's USPS Parcel Post - and it made it to my front door in two days.
 
-![](http://c185824.r24.cf1.rackcdn.com/primepr1.png)
-![](http://c185824.r24.cf1.rackcdn.com/primepr2.png)
+![](primepr1.png)
+![](primepr2.png)
 
 Turns out Amazon Prime is actually using two day shipping even for Puerto Rico. My theory is that they won't advertise it as such, because things could change and they might need to fall back to USPS's Priority Shipping (what they almost always used for Free Super Saver shipping back in the day). By advertising Free Super Saver Shipping as part of Amazon Prime and not the two day shipping they actually use, they are protecting themselves from being fined by the likes of Puerto Rico's Consumer Affairs Department. Aw, crap. [Too late](http://newsismybusiness.com/amazon-facing-500k-fine-for-nixing-free-shipping-to-p-r/).
 
@@ -43,7 +43,7 @@ I think that, instead of threatening with lawsuits and issuing fines just becaus
 
 In addition to these shipping restrictions, we also can not make use of Amazon Instant Video, which is one of the perks of Amazon Prime:
 
-![](http://c185824.r24.cf1.rackcdn.com/amazon-instant-video-restricted.png)
+![](amazon-instant-video-restricted.png)
 
 You may watch Amazon Instant Video from Hawaii, which also gets offered free Super Saver shipping as part of Prime instead of two day. It's only Puerto Rico that is being restricted, since we are a territory. Tell me why, then, won't the Consumer Affairs Department open an investigation into why Amazon's content deals exclude territories such as Puerto Rico, while still being available in the District of Columbia? No, it rather chose to fine Amazon because it won't offer us a free service.
 

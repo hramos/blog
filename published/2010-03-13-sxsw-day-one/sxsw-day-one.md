@@ -1,4 +1,4 @@
---- 
+---
 name: sxsw-day-one
 layout: post
 title: SXSW Day One
@@ -6,9 +6,8 @@ time: 2010-03-13 05:30:00 -04:00
 comments: true
 categories: sxsw
 ---
-First full day of the South by Southwest Film + Interactive festival   
-is now over. It’s been more of Interactive rather than Film, as all   
-the panels and activities has just overwhelmed us.
+
+First full day of the South by Southwest Film + Interactive festival is now over. It’s been more of Interactive rather than Film, as all the panels and activities has just overwhelmed us.
 
 We arrived on Thursday to Austin and were able to get to know downtown   
 city thanks to Pablo’s ([http://www.polsense.inc](http://www.polsense.inc)) previous knowledge of   

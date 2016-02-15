@@ -7,7 +7,7 @@ categories: wwdc
 ---
  
 
-![](http://c185824.r24.cf1.rackcdn.com/wwdc10.jpg)
+![](wwdc10.jpg)
 
 Apple has finally announced the dates for this year’s [Worldwide Developer’s Conference](http://developer.apple.com/wwdc/): June 7 - 11\. The announcement has been expected since mid-March, when they usually set the final dates. Although this year’s dates match up with last year’s, it is still a little weird to still have the conference 5 weeks from the announcement. We now need to scurry and make arrangements, both travel-wise and project-wise, to be able to be in San Francisco for the second week of June.
 

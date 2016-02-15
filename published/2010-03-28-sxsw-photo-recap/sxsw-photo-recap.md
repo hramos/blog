@@ -20,20 +20,20 @@ Here are a couple of pictures I uploaded to [Gowalla](http://gowalla.com/users/h
 
 The [Texas State Capitol grounds](http://gowalla.com/checkins/4651089):
 
-[![Inside the Capitol](http://c185824.r24.cf1.rackcdn.com/3835484-6310142-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/14142_high_res_320x480.jpeg)
+[![Inside the Capitol](3835484-6310142-thumbnail.jpg)](14142_high_res_320x480.jpeg)
 
-[![Texas Ranger](http://c185824.r24.cf1.rackcdn.com/TEXAS_RANGER_14114_high_res_320x480.jpeg)](http://gowalla.com/checkins/4650758)
+[![Texas Ranger](TEXAS_RANGER_14114_high_res_320x480.jpeg)](http://gowalla.com/checkins/4650758)
 
-[![Texas State Capitol Plaque](http://c185824.r24.cf1.rackcdn.com/TEXAS_STATE_CAPITOL_14155_high_res_320x480.jpeg)](http://gowalla.com/checkins/4651089)
+[![Texas State Capitol Plaque](TEXAS_STATE_CAPITOL_14155_high_res_320x480.jpeg)](http://gowalla.com/checkins/4651089)
 
-[One Taco](http://gowalla.com/checkins/4658812), a tasty taco truck that partnered with Gowalla to give out random free tacos upon checkin:[![](http://c185824.r24.cf1.rackcdn.com/3835484-6310229-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/15041_high_res_320x480.jpeg)
+[One Taco](http://gowalla.com/checkins/4658812), a tasty taco truck that partnered with Gowalla to give out random free tacos upon checkin:[![](3835484-6310229-thumbnail.jpg)](15041_high_res_320x480.jpeg)
 
-[![](http://c185824.r24.cf1.rackcdn.com/3835484-6310158-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/14803_high_res_320x480.jpeg)![](http://c185824.r24.cf1.rackcdn.com/15013_high_res_320x480.jpeg)
+[![](3835484-6310158-thumbnail.jpg)](14803_high_res_320x480.jpeg)![](15013_high_res_320x480.jpeg)
 
 One of Google’s new employees this year, [Chris Messina](http://factoryjoe.com/) during his [ActivityStreams](http://activitystrea.ms) [panel](http://gowalla.com/spots/671611):
 
-[![](http://c185824.r24.cf1.rackcdn.com/3835484-6310242-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/20359_high_res_320x480.jpeg)
+[![](3835484-6310242-thumbnail.jpg)](20359_high_res_320x480.jpeg)
 
 [Josh Williams](http://www.twitter.com/jw) of Gowalla during his talk at the [Facebook Developer Garage](http://gowalla.com/spots/671812):
 
-[![](http://c185824.r24.cf1.rackcdn.com/3835484-6310298-thumbnail.jpg)](http://c185824.r24.cf1.rackcdn.com/28473_high_res_320x480.jpeg)
+[![](3835484-6310298-thumbnail.jpg)](28473_high_res_320x480.jpeg)

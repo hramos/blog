@@ -8,7 +8,7 @@ keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneur
 categories: startups
 ---
 
-![](http://c185824.r24.cf1.rackcdn.com/sopr_sshot.png)
+![](sopr_sshot.png)
 
 The startup community in Puerto Rico is still very, very young. It's almost non-existent. I've met a few people here and there over the last few years, and we generally keep in touch, but it feels like we're all alone in this island. Local higher education institutions don't do much about promoting startups, leading graduates instead towards the big companies, local or out of state. Who can blame them, though? A cushy job at a big company is a safe bet.
 

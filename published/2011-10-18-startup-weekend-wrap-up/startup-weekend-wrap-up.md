@@ -8,7 +8,7 @@ keywords: "startups, startups puerto rico, startups of puerto rico, entrepreneur
 categories: startups
 ---
 
-![](http://c185824.r24.cf1.rackcdn.com/swpr.jpg)
+![](swpr.jpg)
 
 This [past](https://gowalla.com/stories/58EEE "Gowalla Story for Startup Weekend") [weekend](https://gowalla.com/stories/58b3L "Gowalla Story for Startup Weekend"), Puerto Rico had its first official [Startup Weekend](http://puertorico.startupweekend.org/ "Startup Weekend Puerto Rico") event. The premise was simple: launch a startup in 54 hours.
 
@@ -18,17 +18,17 @@ Over [50 passionate designers, developers, business development and creatives](h
 
 <!-- more -->
 
-![Ramphis addresses the crowd. Photo by Héctor.](http://c185824.r24.cf1.rackcdn.com/9358258_high_res_320x480.jpg =480x320)
+![Ramphis addresses the crowd. Photo by Héctor.](9358258_high_res_320x480.jpg =480x320)
 
 Our hosts were the incredible team from [Seriously Creative](http://www.seriouslycreative.com/ "Seriously Creative"), an amazing space designed to nurture creativity and inspire groups of people, located in Cupey Alto. [Giovanni Collazo](http://www.twitter.com/gcollazo "@gcollazo") and [José Padilla](http://www.twitter.com/jpadilla_ "@jpadilla_"), the team behind [Blimp](http://getblimp.com/ "Blimp Project Management Software Re-thought.") and organizers of Barcamp San Juan, joined up with [Ramphis Castro](http://www.twitter.com/jramphis "@jramphis") and [Marcos Polanco](http://www.twitter.com/marcospolanco "@MarcosPolanco"), hosts of last year's "Startups on a Global Stage", to take on the challenge of organizing  Puerto Rico's Startup Weekend debut. Ramphis served as the Facilitator, and along with [Dana Montenegro](http://twitter.com/IdeasbyDanaM "Dana Montenegro") and his team at Seriously Creative, they were able to deliver a top-notch quality event.
 
-![Advisers. Photo by Seriously Creative.](http://c185824.r24.cf1.rackcdn.com/305758_10150318581997096_360473137095_8568155_1420951856_n.jpg)
+![Advisers. Photo by Seriously Creative.](305758_10150318581997096_360473137095_8568155_1420951856_n.jpg)
 
 Along with the organizers, a team of advisers and mentors was on hand during the weekend to help each team with product development, marketing, design, legal assistance, and business model development. [Edgardo Jimenez](http://www.sellingbytes.com), [Ivan Rios](http://www.ivanlegal.com), [Rocío del Mar](http://www.twitter.com/rociodelmar "@rociodelmar"), [Omar Ramos](http://www.twitter.com/sugar_coded), [Pablo Lopez](http://www.polsense.com) and myself made up this team of advisers, with [Paulo da Silva](http://twitter.com/paulothesilva "@paulothesilva") and [Toni Gemayel](http://twitter.com/TwoGiraffes "@TwoGiraffes") as mentors.
 
 Once the seven teams had been finalized, they each got set up in their own open office. At Seriously Creative there is an abundance of fun and quirky settings, and with all the food and drinks taken care of, teams were pretty much set for the weekend. We the advisers made our rounds through each office, listening in on the brainstorming that was taking place as each team honed down their chosen idea. By the end of the night, most teams had already settled on a game plan that was to be iterated on and executed during the rest of the weekend.
 
-![Office hours. Photo by Seriously Creative.](http://c185824.r24.cf1.rackcdn.com/317392_10150318505832096_360473137095_8567692_1220038347_n.jpg)
+![Office hours. Photo by Seriously Creative.](317392_10150318505832096_360473137095_8567692_1220038347_n.jpg)
 
 By midday Saturday, advisers started hosting office hours, with each of us sitting down with teams for blocks of half an hour to discuss how each would develop their product, build a prototype, and monetize it.
 
@@ -82,7 +82,7 @@ As winners of Startup Weekend Puerto Rico 2011, the Tipbell team gets:
 
 To the rest of the teams, don’t stop. Keep working on your product - it can be the same one you came up with this last weekend, or you can choose to focus on a new direction. Just don't stop. Keep working, keep trying new approaches. Hopefully everyone has learned new skills this last weekend that will help them come up with a successful business.
 
-![Group photo by Seriously Creative.](http://c185824.r24.cf1.rackcdn.com/309526_10150321516137096_360473137095_8587818_1735842327_n.jpg)
+![Group photo by Seriously Creative.](309526_10150321516137096_360473137095_8587818_1735842327_n.jpg)
 
 I’m really proud of the team behind Startup Weekend Puerto Rico. Something big took place this past weekend in Puerto Rico. Our startup community is still nascent, but its getting there. Its now up to all of us to keep the ball rolling and get the startup ecosystem built up.
 

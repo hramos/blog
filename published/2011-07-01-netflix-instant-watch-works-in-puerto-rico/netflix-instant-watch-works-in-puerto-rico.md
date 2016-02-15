@@ -7,7 +7,7 @@ comments: true
 keywords: "netflix, netflix puerto rico, view netflix puerto rico, watch netflix puerto rico, netflix streaming"
 ---
 
-![](http://c185824.r24.cf1.rackcdn.com/399px-Netflix_Logo.svg.png)
+![](399px-Netflix_Logo.svg.png)
 
 The time is finally here: Netflix Watch Instantly, the video streaming service, is now available in Puerto Rico. One of the very first posts in this website was regarding the [unavailability of Netflix in Puerto Rico][netflix-blocking], as you may remember. We can now put that issue to rest, as Netflix sent out an email to all of its Puerto Rico customers, announcing the fact that Watch Instantly is now available again.
 
@@ -21,6 +21,6 @@ As much as we would like everybody to treat us like the United States territory 
 
 [netflix-blocking]: http://hectorramos.com/netflix-excludes-puerto-rico-charges "Netflix excludes Puerto Rico, charges full price"
 [netflix-email]: http://edgarrodriguez.com/netflix-says-that-instant-watch-woks-on-my-ar "Netflix email by Edgar Rodriguez"
-[netflix-trial]: http://c185824.r24.cf1.rackcdn.com/netflix-trial.png "Welcome back"
+[netflix-trial]: netflix-trial.png "Welcome back"
 [turntable]: http://www.turntable.fm "Turntable"
 [amazon]: http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F%23&tag=hectorrcom-20&linkCode=ur2&camp=1789&creative=390957 "Amazon"

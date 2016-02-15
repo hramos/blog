@@ -13,6 +13,6 @@ _Once widely used, the two-way radio is seldom seen on a mobile phone except for
 
 _[COM:LINK](/comlink/) for the iPhone\iPod Touch (2G with Bluetooth) uses the new Bluetooth feature to bring you a free application that relives the nostalgia of walkie-talkie communications._
 
-[![](http://c185824.r24.cf1.rackcdn.com/original.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=322502765&mt=8)It was a nice surprise to see the application covered all the way over in Japan, but much nicer was seeing how the userbase has grown over the last week. We now have more Japanese users than all other countries combined.
+[![](original.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=322502765&mt=8)It was a nice surprise to see the application covered all the way over in Japan, but much nicer was seeing how the userbase has grown over the last week. We now have more Japanese users than all other countries combined.
 
 In the next month an update to [COM:LINK](/comlink/) should be arriving which will bring even more sharing features to the [most popular Bluetooth walkie-talkie application in the App Store](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=322502765&mt=8) (that side of the world, anyway!).

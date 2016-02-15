@@ -6,7 +6,7 @@ time: 2010-01-28 17:16:00 -04:00
 comments: true
 categories: code
 ---
-![](http://c185824.r24.cf1.rackcdn.com/ipadlove.png)
+![](ipadlove.png)
 
 With all the disappointment brewing around the iPad announcement, I had to offset it with some praise in my headline, so please excuse me.
 

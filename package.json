@@ -4,7 +4,8 @@
   "dependencies": {
     "glob": "^7.0.0",
     "to-markdown": "^2.0.1",
-    "walk": "^2.3.9"
+    "walk": "^2.3.9",
+    "wget": "0.0.1"
   },
   "scripts": {}
 }

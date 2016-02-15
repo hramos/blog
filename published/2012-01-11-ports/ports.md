@@ -9,7 +9,7 @@ keywords: "build quality, macbook air, ultrabooks"
 
 There's something about non-Apple laptops that bugs me. It's a very small detail, admittedly, but when you're paying hundreds of dollars for a piece of equipment that is essential to my line of work, every little detail counts.
 
-![](http://c185824.r24.cf1.rackcdn.com/ultrabook-prototype-the-verge.png)
+![](ultrabook-prototype-the-verge.png)
 
 The ports.
 
@@ -21,7 +21,7 @@ It's not just about the thickness, though. Look at the audio out, the smallest o
 
 How does Apple do it? All the ports are built into the chassis. It's all streamlined, no gaps, no rubber parts poking out of the laptop. And no ugly, outdated, VGA port.
 
-![](http://c185824.r24.cf1.rackcdn.com/macbookair-ports-apple.png)
+![](macbookair-ports-apple.png)
 
 These are the ports on the [13" MacBook Air](http://www.apple.com/macbookair/specs.html). If you need HDMI, you plug in a Mini-DisplayPort to HDMI cable into the Thunderbolt port. Need VGA? There's a Mini-DisplayPort to VGA cable as well. The small Thunderbolt port has replaced a huge, ugly VGA port with no sacrifice made when it comes to function and design. The audio port is flush with the chassis. It just looks good.
 
