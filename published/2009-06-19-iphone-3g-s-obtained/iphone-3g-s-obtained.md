@@ -1,6 +1,6 @@
 --- 
 name: iphone-3g-s-obtained
-layout: post
+layout: post.html
 title: iPhone 3G S Obtained!
 time: 2009-06-19 09:54:00 -04:00
 comments: true

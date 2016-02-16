@@ -1,6 +1,6 @@
 --- 
 name: need-iphone-app
-layout: post
+layout: post.html
 title: Need an iPhone App?
 time: 2010-02-08 13:00:00 -04:00
 comments: true

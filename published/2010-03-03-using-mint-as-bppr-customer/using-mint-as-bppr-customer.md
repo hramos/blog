@@ -1,6 +1,6 @@
 --- 
 name: using-mint-as-bppr-customer
-layout: post
+layout: post.html
 title: Using Mint as a BPPR customer
 time: 2010-03-03 13:32:00 -04:00
 comments: true

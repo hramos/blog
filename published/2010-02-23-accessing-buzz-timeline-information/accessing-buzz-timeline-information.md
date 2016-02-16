@@ -1,6 +1,6 @@
 --- 
 name: accessing-buzz-timeline-information
-layout: post
+layout: post.html
 title: Accessing Buzz Timeline Information
 time: 2010-02-23 14:55:00 -04:00
 comments: true

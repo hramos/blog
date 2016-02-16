@@ -1,6 +1,6 @@
 ---
 name: comlink-hits-it-big-in-japan
-layout: post
+layout: post.html
 title: "COM:LINK hits it big in Japan"
 time: 2009-08-28 00:05:00 -04:00
 comments: true

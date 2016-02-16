@@ -1,6 +1,6 @@
 ---
 name: netflix-responds
-layout: post
+layout: post.html
 title: Netflix Responds
 time: 2009-06-05 10:55:00 -04:00
 comments: true

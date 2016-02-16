@@ -1,6 +1,6 @@
 ---
 name: why-english
-layout: post
+layout: post.html
 title: Why English?
 time: 2012-01-20 12:00:00 -04:00
 comments: false

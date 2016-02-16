@@ -1,6 +1,6 @@
 --- 
 name: enable-mms-and-internet-tethering-on
-layout: post
+layout: post.html
 title: Enable MMS and Internet Tethering on your iPhone 3.0 with iTunes 8.2
 time: 2009-06-18 13:56:00 -04:00
 ---

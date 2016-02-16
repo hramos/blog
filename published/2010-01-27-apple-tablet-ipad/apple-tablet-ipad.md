@@ -1,6 +1,6 @@
 --- 
 name: apple-tablet-ipad
-layout: post
+layout: post.html
 title: "Apple Tablet: iPad"
 time: 2010-01-27 15:15:00 -04:00
 comments: true

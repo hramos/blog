@@ -1,6 +1,6 @@
 ---
 name: ports
-layout: post
+layout: post.html
 title: Ports
 time: 2012-01-11 11:15:00 -04:00
 comments: false

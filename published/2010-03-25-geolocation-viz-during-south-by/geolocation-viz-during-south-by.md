@@ -1,6 +1,6 @@
 ---
 name: geolocation-viz-during-south-by
-layout: post
+layout: post.html
 title: Geolocation Viz During South by SouthWest
 time: 2010-03-25 20:02:00 -04:00
 comments: true

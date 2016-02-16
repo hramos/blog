@@ -1,6 +1,6 @@
 --- 
 name: tecnamica-interview-with-vaya-broqui
-layout: post
+layout: post.html
 title: Tecnamica Interview with Vaya Broqui
 time: 2009-07-05 14:12:00 -04:00
 comments: true

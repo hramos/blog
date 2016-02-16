@@ -1,6 +1,6 @@
 ---
 name: startup-weekend
-layout: post
+layout: post.html
 title: Startup Weekend
 time: 2011-10-02 10:00:00 -04:00
 comments: true

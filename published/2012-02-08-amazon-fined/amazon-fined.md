@@ -1,5 +1,6 @@
 ---
-layout: post
+name: amazon-fined
+layout: post.html
 title: "On Amazon Prime, free Super Saver Shipping and Silly Fines"
 date: 2012-02-08 12:00
 comments: true

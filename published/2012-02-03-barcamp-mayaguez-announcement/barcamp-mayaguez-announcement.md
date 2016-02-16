@@ -1,6 +1,6 @@
 ---
 name: barcamp-mayaguez-announcement
-layout: post
+layout: post.html
 title: Barcamp Mayagüez
 time: 2012-02-03 15:00:00 -05:00
 comments: false

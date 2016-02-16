@@ -1,6 +1,6 @@
 ---
 name: gowalla-spots-in-puerto-rico
-layout: post
+layout: post.html
 title: Gowalla Spots In Puerto Rico
 time: 2010-05-24 12:44:00 -04:00
 comments: true

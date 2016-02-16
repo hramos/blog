@@ -1,6 +1,6 @@
 --- 
 name: google-buzz-for-iphone
-layout: post
+layout: post.html
 title: Google Buzz for iPhone
 time: 2010-10-19 00:28:00 -04:00
 comments: true

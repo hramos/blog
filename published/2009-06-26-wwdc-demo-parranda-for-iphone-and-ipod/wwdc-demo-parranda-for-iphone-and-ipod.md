@@ -1,6 +1,6 @@
 ---
 name: wwdc-demo-parranda-for-iphone-and-ipod
-layout: post
+layout: post.html
 title: "WWDC Demo: Parranda for iPhone and iPod touch"
 time: 2009-06-26 19:01:00 -04:00
 comments: true

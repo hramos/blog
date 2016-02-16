@@ -1,6 +1,6 @@
 ---
 name: startup-weekend-wrap-up
-layout: post
+layout: post.html
 title: Startup Weekend Wrap-up
 time: 2011-10-18 17:30:00 -04:00
 comments: true

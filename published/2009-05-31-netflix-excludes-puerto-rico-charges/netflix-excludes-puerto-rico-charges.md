@@ -1,6 +1,6 @@
 ---
 name: netflix-excludes-puerto-rico-charges
-layout: post
+layout: post.html
 title: Netflix Excludes Puerto Rico, Charges Full Price
 time: 2009-05-31 14:59:00 -04:00
 comments: true

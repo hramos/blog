@@ -1,6 +1,6 @@
 ---
 name: sxsw-day-one
-layout: post
+layout: post.html
 title: SXSW Day One
 time: 2010-03-13 05:30:00 -04:00
 comments: true

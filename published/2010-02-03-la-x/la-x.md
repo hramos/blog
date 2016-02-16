@@ -1,6 +1,6 @@
---- 
+---
 name: la-x
-layout: post
+layout: post.html
 title: LA X
 time: 2010-02-03 17:53:00 -04:00
 comments: true
@@ -10,23 +10,18 @@ categories: tv
 
 Yes, this is the mandatory [LOST](http://en.wikipedia.org/wiki/Lost_(TV_series)) post. If you are no fan of the show, or you haven’t watched the Season 6 Premier, then I recommend skipping this post.
 
- LA X. Title for the Season Six Premiere. Sure, LAX is the airport code for Los Angeles International Airport, but as always, titles have a deeper meaning. What is that meaning? No one knows for sure, but it might be closely related to the divergent timeline that we are observing in this new and final season.
+LA X. Title for the Season Six Premiere. Sure, LAX is the airport code for Los Angeles International Airport, but as always, titles have a deeper meaning. What is that meaning? No one knows for sure, but it might be closely related to the divergent timeline that we are observing in this new and final season.
 
- Carlton and Damon would like you to [believe](http://popwatch.ew.com/2010/02/02/lost-premiere-damon-carlton/) that these are sideflashes - we are seeing what would have happened had the LOSTies not crashed into the Island. Or that we may be experiencing a fork in time, where the cat is [both dead and alive](en.wikipedia.org/wiki/Schrödinger's_cat). But this is LOST. You haven’t forgotten Season 3’s finale, have you? We thought we were seeing Jack’s flashback, which turned out to be a flashforward to 2007\. Season 4 showed us how the Oceanic Six were living after being rescued while simultaneously showing how they ended up being rescued. What if there are no forked timelines? What if… we are seeing the epilogue, the actual ending of the show, right now as the season progresses? Calling it: Jack will get his neck hurt during the Season Six finale.
+Carlton and Damon would like you to [believe](http://popwatch.ew.com/2010/02/02/lost-premiere-damon-carlton/) that these are sideflashes - we are seeing what would have happened had the LOSTies not crashed into the Island. Or that we may be experiencing a fork in time, where the cat is [both dead and alive](en.wikipedia.org/wiki/Schrödinger's_cat). But this is LOST. You haven’t forgotten Season 3’s finale, have you? We thought we were seeing Jack’s flashback, which turned out to be a flashforward to 2007\. Season 4 showed us how the Oceanic Six were living after being rescued while simultaneously showing how they ended up being rescued. What if there are no forked timelines? What if… we are seeing the epilogue, the actual ending of the show, right now as the season progresses? Calling it: Jack will get his neck hurt during the Season Six finale.
 
- There are various differences that might point to that possibility.
+There are various differences that might point to that possibility.
 
-*   Hurley is the luckiest man alive. 
-
-*   Rose comforted Jack’s fear after the turbulence. 
-
-*   Charlie is alive, thanks to Jack and possibly thanks to the rehab program he would be taken into now that the authorities have arrested him. 
-
-*   Sawyer is nice and friendly.
-
-*   Shannon is alive and well in Australia.
-
-*   Christian Shephard’s body has disappeared, along with Locke’s knives.
+* Hurley is the luckiest man alive. 
+* Rose comforted Jack’s fear after the turbulence. 
+* Charlie is alive, thanks to Jack and possibly thanks to the rehab program he would be taken into now that the authorities have arrested him. 
+* Sawyer is nice and friendly.
+* Shannon is alive and well in Australia.
+* Christian Shephard’s body has disappeared, along with Locke’s knives.
 
 Remember the sunken LOST island? Other than a nod to the Atlantis theme, we see that New Otherton was constructed before the island was sunk. This points to the fact that the Jughead was not that which sunk the island. The island must have sunk sometime after the whole Jacob vs Smoke Monster conflict that is now going on in 2007 on the unsunken island - we will see that happen at the end of this season. Or I could be wrong, and the island simply sunk when it was moved by Ben - unlikely.
 

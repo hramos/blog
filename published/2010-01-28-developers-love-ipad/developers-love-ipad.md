@@ -1,6 +1,6 @@
 --- 
 name: developers-love-ipad
-layout: post
+layout: post.html
 title: Developers LOVE the iPad
 time: 2010-01-28 17:16:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: ipad-has-camera
-layout: post
+layout: post.html
 title: The iPad has a Camera...
 time: 2010-04-07 22:11:00 -04:00
 comments: true

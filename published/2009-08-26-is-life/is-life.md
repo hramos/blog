@@ -1,6 +1,6 @@
 ---
 name: such-is-life
-layout: post
+layout: post.html
 title: Such is life
 time: 2009-08-26 16:11:00 -04:00
 comments: true

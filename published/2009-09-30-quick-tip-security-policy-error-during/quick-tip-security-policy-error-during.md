@@ -1,6 +1,6 @@
 --- 
 name: quick-tip-security-policy-error-during
-layout: post
+layout: post.html
 title: "QUICK TIP: Security Policy Error During Deployment"
 time: 2009-09-30 19:23:00 -04:00
 comments: true

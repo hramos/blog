@@ -1,6 +1,6 @@
 --- 
 name: loma-del-sol-video-with-animoto
-layout: post
+layout: post.html
 title: Loma del Sol Video With Animoto
 time: 2010-01-09 23:48:00 -04:00
 comments: true

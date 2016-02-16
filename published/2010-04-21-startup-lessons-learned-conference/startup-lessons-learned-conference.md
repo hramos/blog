@@ -1,6 +1,6 @@
 --- 
 name: startup-lessons-learned-conference
-layout: post
+layout: post.html
 title: Startup Lessons Learned Conference Simulcast
 time: 2010-04-21 14:39:00 -04:00
 comments: true

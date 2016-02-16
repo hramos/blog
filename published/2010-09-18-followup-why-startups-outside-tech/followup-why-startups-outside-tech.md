@@ -1,6 +1,6 @@
 --- 
 name: followup-why-startups-outside-tech
-layout: post
+layout: post.html
 title: "Followup: Why Startups Outside Tech Cities Aren't Totally Farked"
 time: 2010-09-18 19:28:00 -04:00
 comments: true

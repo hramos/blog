@@ -1,6 +1,6 @@
 --- 
 name: tedx-sanjuan
-layout: post
+layout: post.html
 title: TEDx San Juan
 time: 2011-12-08 19:15:00 -04:00
 comments: false

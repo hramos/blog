@@ -1,6 +1,6 @@
 --- 
 name: threadsy-unified-inbox-for-web
-layout: post
+layout: post.html
 title: "Threadsy: Unified Inbox for the Web"
 time: 2009-09-19 14:51:00 -04:00
 comments: true

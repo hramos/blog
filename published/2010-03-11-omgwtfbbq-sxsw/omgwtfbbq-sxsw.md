@@ -1,6 +1,6 @@
 --- 
 name: omgwtfbbq-sxsw
-layout: post
+layout: post.html
 title: OMGWTFBBQ SXSW!
 time: 2010-03-11 04:19:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: sxsw-photo-recap
-layout: post
+layout: post.html
 title: SXSW Photo Recap
 time: 2010-03-28 14:20:00 -04:00
 comments: true

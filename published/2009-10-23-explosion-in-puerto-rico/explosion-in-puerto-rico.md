@@ -1,6 +1,6 @@
 ---
 name: explosion-in-puerto-rico
-layout: post
+layout: post.html
 title: Explosion in Puerto Rico
 time: 2009-10-23 01:10:00 -04:00
 comments: true

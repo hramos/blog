@@ -1,6 +1,6 @@
 --- 
 name: app-store-review-process-woes
-layout: post
+layout: post.html
 title: App Store Review Process Woes
 time: 2009-08-09 14:04:00 -04:00
 comments: true

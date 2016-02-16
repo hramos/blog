@@ -1,6 +1,6 @@
 --- 
 name: automating-ios-over-air-beta-deployment
-layout: post
+layout: post.html
 title: Automating iOS Over The Air Beta Deployment
 time: 2011-01-11 10:22:00 -04:00
 comments: true

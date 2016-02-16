@@ -1,6 +1,6 @@
 ---
 name: carmack-on-android
-layout: post
+layout: post.html
 title: John Carmack on Android
 time: 2011-03-27 14:12:00 -04:00
 comments: true
@@ -14,4 +14,4 @@ categories: code
 >
 > It’s hard to make a rational business decision to say I want to take resources from something else and put them on this. We did actually hire a person to be our Android guy, but it looks like he’s going to get stuck on iOS development!
 
-I've [said it before](http://hectorramos.com/day-quake-shook-me-into-programming), I got into programming thanks to John Carmack's work during the 90's.
+I've [said it before](/day-quake-shook-me-into-programming), I got into programming thanks to John Carmack's work during the 90's.

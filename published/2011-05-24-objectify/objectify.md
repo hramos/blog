@@ -1,6 +1,6 @@
 ---
 name: objectify
-layout: post
+layout: post.html
 title: Objectify. Give JSON, Receive Code.
 time: 2011-05-24 12:30:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: deeper-look-at-new-twitter
-layout: post
+layout: post.html
 title: A Deeper Look At The New Twitter
 time: 2010-09-15 11:45:00 -04:00
 comments: true

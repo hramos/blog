@@ -1,6 +1,6 @@
 --- 
 name: citizen-journalism-strike-in-puerto
-layout: post
+layout: post.html
 title: "Citizen Journalism: Strike in Puerto Rico"
 time: 2009-10-15 11:23:00 -04:00
 comments: true

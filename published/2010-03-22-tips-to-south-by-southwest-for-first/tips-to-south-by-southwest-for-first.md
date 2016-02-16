@@ -1,6 +1,6 @@
 ---
 name: tips-to-south-by-southwest-for-first
-layout: post
+layout: post.html
 title: 9 Tips To South by Southwest For First Timers
 time: 2010-03-22 17:53:00 -04:00
 comments: true

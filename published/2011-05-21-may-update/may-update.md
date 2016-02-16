@@ -1,6 +1,6 @@
 --- 
 name: may-update
-layout: post
+layout: post.html
 title: May Update
 time: 2011-05-21 14:07:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: advisers-stop-being-nice
-layout: post
+layout: post.html
 title: Advisers, stop being nice
 time: 2011-10-21 11:30:00 -04:00
 comments: true

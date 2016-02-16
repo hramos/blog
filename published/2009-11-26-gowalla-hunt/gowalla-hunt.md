@@ -1,6 +1,6 @@
 --- 
 name: gowalla-hunt
-layout: post
+layout: post.html
 title: Gowalla Hunt
 time: 2009-11-26 20:25:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: aeropress
-layout: post
+layout: post.html
 title: The secret to a great cup of coffee at work
 time: 2011-11-29 1:15:00 -04:00
 comments: true

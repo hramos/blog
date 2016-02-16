@@ -1,6 +1,6 @@
 ---
 name: ashton
-layout: post
+layout: post.html
 title: Did I ever tell you about Ashton?
 time: 2010-12-11 03:33:00 -04:00
 comments: true

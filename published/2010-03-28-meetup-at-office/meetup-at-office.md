@@ -1,6 +1,6 @@
 ---
 name: meetup-at-office
-layout: post
+layout: post.html
 title: Meetup at The Office
 time: 2010-03-28 16:34:00 -04:00
 comments: true

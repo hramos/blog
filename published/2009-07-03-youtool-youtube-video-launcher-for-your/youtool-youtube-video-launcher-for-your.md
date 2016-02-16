@@ -1,6 +1,6 @@
 --- 
 name: youtool-youtube-video-launcher-for-your
-layout: post
+layout: post.html
 title: "YouTool: YouTube Video Launcher for your iPhone"
 time: 2009-07-03 23:10:00 -04:00
 comments: true

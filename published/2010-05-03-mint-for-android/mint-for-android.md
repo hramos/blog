@@ -1,6 +1,6 @@
 ---
 name: mint-for-android
-layout: post
+layout: post.html
 title: Mint for Android
 time: 2010-05-03 11:11:00 -04:00
 comments: true

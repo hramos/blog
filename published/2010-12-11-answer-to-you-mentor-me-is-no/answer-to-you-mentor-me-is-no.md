@@ -1,6 +1,6 @@
 --- 
 name: answer-to-you-mentor-me-is-no
-layout: post
+layout: post.html
 title: The answer to "Will you mentor me?" is no
 time: 2010-12-11 19:25:00 -04:00
 comments: true

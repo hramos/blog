@@ -1,6 +1,6 @@
 --- 
 name: objective-see
-layout: post
+layout: post.html
 title: Objective See
 time: 2010-08-15 22:04:00 -04:00
 comments: true

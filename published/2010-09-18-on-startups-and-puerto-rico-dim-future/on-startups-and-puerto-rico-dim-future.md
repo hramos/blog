@@ -1,6 +1,6 @@
 --- 
 name: on-startups-and-puerto-rico-dim-future
-layout: post
+layout: post.html
 title: On Startups And Puerto Rico's Dim Future
 time: 2010-09-18 16:39:00 -04:00
 comments: true

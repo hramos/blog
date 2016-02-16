@@ -1,6 +1,6 @@
 --- 
 name: rim-playbook-reaction
-layout: post
+layout: post.html
 title: RIM PlayBook Reaction
 time: 2010-09-29 12:20:00 -04:00
 comments: true

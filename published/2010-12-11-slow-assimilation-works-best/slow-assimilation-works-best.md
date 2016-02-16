@@ -1,6 +1,6 @@
 ---
 name: slow-assimilation-works-best
-layout: post
+layout: post.html
 title: Slow Assimilation Works Best
 time: 2010-12-11 19:30:00 -04:00
 comments: true

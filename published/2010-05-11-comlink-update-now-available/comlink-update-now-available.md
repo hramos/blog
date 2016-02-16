@@ -1,6 +1,6 @@
 --- 
 name: comlink-update-now-available
-layout: post
+layout: post.html
 title: COM:LINK 1.1 Now Available
 time: 2010-05-11 10:49:00 -04:00
 comments: true

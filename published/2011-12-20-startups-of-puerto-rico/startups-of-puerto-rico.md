@@ -1,6 +1,6 @@
 ---
 name: startups-of-puerto-rico
-layout: post
+layout: post.html
 title: Startups of Puerto Rico
 time: 2011-12-20 12:15:00 -04:00
 comments: true

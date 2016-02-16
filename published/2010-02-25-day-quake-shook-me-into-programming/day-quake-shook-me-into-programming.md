@@ -1,12 +1,12 @@
---- 
+---
 name: day-quake-shook-me-into-programming
-layout: post
+layout: post.html
 title: The day Quake shook me into programming
 time: 2010-02-25 08:44:00 -04:00
 comments: true
 categories: code
 ---
-[![](3835484-5905637-thumbnail.jpg)](post-images%2Fquake.jpg)
+![](quake.jpg)
 
 Yesterday saw the [14 year anniversary of QTest’s release](http://bethblog.com/index.php/2010/02/24/the-day-quake-shook-the-gaming-world-carmack-et-al-share-their-qtest-memories/). I still remember that day.
 

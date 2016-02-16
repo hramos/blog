@@ -1,6 +1,6 @@
 --- 
 name: sxsw-day-two-saturday-morning
-layout: post
+layout: post.html
 title: SXSW Day Two - Saturday Morning
 time: 2010-03-16 14:08:00 -04:00
 comments: true

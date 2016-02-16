@@ -1,6 +1,6 @@
 --- 
 name: advanced-workshop-and-building-high
-layout: post
+layout: post.html
 title: Advanced Workshop "Starting and Building a High Growth Venture"
 time: 2009-09-30 16:51:00 -04:00
 comments: true

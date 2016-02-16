@@ -1,6 +1,6 @@
 ---
 name: comlink-two-way-bluetooth-walkie-talkie
-layout: post
+layout: post.html
 title: "COM:LINK - Two Way Bluetooth Walkie Talkie"
 time: 2009-08-03 19:56:00 -04:00
 comments: true

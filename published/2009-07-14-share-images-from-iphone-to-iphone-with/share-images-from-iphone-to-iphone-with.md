@@ -1,6 +1,6 @@
 ---
 name: share-images-from-iphone-to-iphone-with
-layout: post
+layout: post.html
 title: Share Images From iPhone to iPhone With Bluetooth
 time: 2009-07-14 17:28:00 -04:00
 comments: true

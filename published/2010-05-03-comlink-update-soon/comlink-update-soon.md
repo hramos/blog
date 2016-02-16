@@ -1,6 +1,6 @@
 --- 
 name: comlink-update-soon
-layout: post
+layout: post.html
 title: COM:LINK 1.1 Update Soon
 time: 2010-05-03 10:17:00 -04:00
 comments: true

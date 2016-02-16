@@ -1,6 +1,6 @@
 ---
 name: proper-use-of-iphone-touch-keyboard
-layout: post
+layout: post.html
 title: Proper use of the iPhone touch keyboard
 time: 2009-05-11 12:54:00 -04:00
 comments: true

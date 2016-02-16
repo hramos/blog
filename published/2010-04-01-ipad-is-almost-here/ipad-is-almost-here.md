@@ -1,6 +1,6 @@
 --- 
 name: ipad-is-almost-here
-layout: post
+layout: post.html
 title: The iPad is (almost) here
 time: 2010-04-01 23:13:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: wwdc-2010-in-early-june
-layout: post
+layout: post.html
 title: WWDC 2010 in early June
 time: 2010-04-29 10:03:00 -04:00
 categories: wwdc

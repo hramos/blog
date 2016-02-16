@@ -1,6 +1,6 @@
 --- 
 name: what-all-buzz-about-at-google
-layout: post
+layout: post.html
 title: What's all the Buzz about at Google?
 time: 2010-02-09 14:01:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 ---
 name: javascriptscore-apps
-layout: post
+layout: post.html
 title: JavaScriptCore apps
 time: 2011-04-28 12:02:00 -04:00
 comments: true

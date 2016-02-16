@@ -1,6 +1,6 @@
 --- 
 name: boiler-plates
-layout: post
+layout: post.html
 title: Building a website? HTML5 boiler plates
 time: 2010-08-10 21:55:00 -04:00
 comments: true

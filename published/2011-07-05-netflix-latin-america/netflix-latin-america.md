@@ -1,6 +1,6 @@
 ---
 name: netflix-latin-america
-layout: post
+layout: post.html
 title: Netflix announces Latin American expansion
 time: 2011-07-05 13:41:00 -04:00
 comments: true

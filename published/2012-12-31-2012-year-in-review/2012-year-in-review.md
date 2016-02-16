@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "2012 Cliff Notes"
+name: 2012-year-in-review
+layout: post.html
+title: "2012 Year in Review"
 date: 2012-12-31 00:00
 comments: true
-categories: 
+categories:
 ---
 
 - For the third year in a row, told everyone this was the year I would finally move to San Francisco.

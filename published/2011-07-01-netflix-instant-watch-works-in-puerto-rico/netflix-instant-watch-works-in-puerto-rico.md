@@ -1,6 +1,6 @@
 --- 
 name: netflix-instant-watch-works-in-puerto-rico
-layout: post
+layout: post.html
 title: Netflix Streaming works in Puerto Rico
 time: 2011-07-01 10:00:00 -04:00
 comments: true

@@ -1,6 +1,6 @@
 --- 
 name: cheapskate-monitor-stand
-layout: post
+layout: post.html
 title: A Cheapskate's Monitor Stand
 time: 2009-10-21 22:34:00 -04:00
 comments: true

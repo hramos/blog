@@ -1,6 +1,6 @@
 ---
 name: attendee-bash-cake
-layout: post
+layout: post.html
 title: "WWDC 2009 Attendee Bash: CAKE"
 time: 2009-06-15 12:45:00 -04:00
 comments: true

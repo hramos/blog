@@ -1,6 +1,6 @@
 ---
 name: apple-worldwide-developer-conference
-layout: post
+layout: post.html
 title: Apple Worldwide Developer's Conference
 time: 2009-06-05 21:50:00 -04:00
 comments: true

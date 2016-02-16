@@ -1,6 +1,6 @@
 ---
 name: parranda-update-nuyorican-edition
-layout: post
+layout: post.html
 title: "Parranda Update: NuYorican Edition"
 time: 2009-06-17 00:56:00 -04:00
 comments: true

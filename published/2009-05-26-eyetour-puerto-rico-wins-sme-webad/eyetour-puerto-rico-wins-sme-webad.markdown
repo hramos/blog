@@ -1,6 +1,6 @@
 ---
 name: eyetour-puerto-rico-wins-sme-webad
-layout: post
+layout: post.html
 title: EyeTour Puerto Rico Wins SME WebAd Award 2009
 time: 2009-05-26 21:40:00 -04:00
 comments: true

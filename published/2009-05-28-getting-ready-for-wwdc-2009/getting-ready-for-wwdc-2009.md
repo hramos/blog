@@ -1,6 +1,6 @@
 ---
 name: getting-ready-for-wwdc-2009
-layout: post
+layout: post.html
 title: Getting Ready for WWDC 2009
 time: 2009-05-28 22:41:00 -04:00
 comments: true
