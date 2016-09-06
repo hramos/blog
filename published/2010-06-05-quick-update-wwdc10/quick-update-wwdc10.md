@@ -4,7 +4,9 @@ layout: post.html
 title: "Quick Update: WWDC10 &amp; Beyond"
 time: 2010-06-05 20:37:00 -04:00
 comments: true
-categories: code wwdc
+categories:
+- code
+- wwdc
 ---
 The past few weeks have been hectic, so I’ll keep it short.
 

@@ -1,10 +1,12 @@
---- 
+---
 name: comlink-update-soon
 layout: post.html
 title: COM:LINK 1.1 Update Soon
 time: 2010-05-03 10:17:00 -04:00
 comments: true
-categories: code apps
+categories:
+- code
+- apps
 ---
 Spent the weekend adding some new features that have been a long time in the To Do bucket for COM:LINK. Submitted the binary late last night.
 
@@ -23,4 +25,3 @@ Next on the list was adding In-App Purchases. I need to recoup the time investme
 Of course, if I am going to provide a paid upgrade, I need to pair it with new features. New for 1.1 and COM:LINK+, you can now send photos to other COM:LINK devices. What’s neat about this is that your friend does not need to have COM:LINK+ in order to receive your photos. Only the Sender needs to upgrade to COM:LINK+. Of course, you might want to tell your friends to upgrade, too, so that they may be able to send photos back to you. ;)
 
 Sending photos is just the first of some COM:LINK+ features on the way. The plan is to keep COM:LINK working perfectly for radio communication, while adding new features to COM:LINK+. This way, everybody keeps the same app they’ve been enjoying for the last year, while having the option to upgrade and use newer features.
-
