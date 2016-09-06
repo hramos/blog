@@ -4,7 +4,7 @@ layout: post.html
 title: Barcamp Mayagüez
 time: 2012-02-03 15:00:00 -05:00
 comments: false
-keywords: "barcamp mayaguez, barcamp"
+keywords: barcamp
 categories: events
 ---
 

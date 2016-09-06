@@ -4,7 +4,9 @@ layout: post.html
 title: Netflix announces Latin American expansion
 time: 2011-07-05 13:41:00 -04:00
 comments: true
-keywords: "netflix, netflix puerto rico, view netflix puerto rico, watch netflix puerto rico, netflix streaming"
+keywords:
+- netflix
+- puerto rico
 ---
 
 > ## AFP, ["Netflix to stream movies, TV shows to Latin America"](http://www.google.com/hostednews/afp/article/ALeqM5hsUJA2-B9pXzFOucJrZRnXpEvy9g?docId=CNG.bc84fe9157c6fc0692b67e0f94ba7a19.231)

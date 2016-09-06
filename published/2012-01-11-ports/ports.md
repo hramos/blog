@@ -4,7 +4,10 @@ layout: post.html
 title: Ports
 time: 2012-01-11 11:15:00 -04:00
 comments: false
-keywords: "build quality, macbook air, ultrabooks"
+keywords:
+- build quality
+- macbook air
+- ultrabooks
 ---
 
 There's something about non-Apple laptops that bugs me. It's a very small detail, admittedly, but when you're paying hundreds of dollars for a piece of equipment that is essential to my line of work, every little detail counts.

@@ -4,7 +4,9 @@ layout: post.html
 title: Drop In Reachability Check
 time: 2010-12-14 15:15:00 -04:00
 comments: true
-keywords: "reachability, ios"
+keywords:
+- reachability
+- ios
 categories: code
 ---
 

@@ -4,14 +4,18 @@ layout: post.html
 title: Why English?
 time: 2012-01-20 12:00:00 -04:00
 comments: false
-keywords: "bilingualism, spanish, english, blogging"
+keywords:
+- bilingualism
+- spanish
+- english
+- blogging
 ---
 
 One of the common questions I get from my friends in Puerto Rico, shortly after visiting my website or following me on Twitter, is about my choice of language. As you can see, everything here is written in English, even though I carry most of my daily conversation in Spanish. Why, then, do I choose English over Spanish when writing online?
 
 <!-- more -->
 
-As a programmer, I'm reading documentation in English all day. I'm writing function names in English, catching up with the latest startup news in English, reading Hacker News, TechCrunch, TechMeme, and PandoDaily. My favorite books are all in English -- as a very young boy, I would pick up my dad's John Grisham novels as soon as he was done reading them. I'd always go for The San Juan Star over El Nuevo Dia. I learned to program at a very young age by reading books written in English and asking for help on newsgroups. I even blogged for an English language website when I was 13, even though that word didn't exist until almost 5 years later. 
+As a programmer, I'm reading documentation in English all day. I'm writing function names in English, catching up with the latest startup news in English, reading Hacker News, TechCrunch, TechMeme, and PandoDaily. My favorite books are all in English -- as a very young boy, I would pick up my dad's John Grisham novels as soon as he was done reading them. I'd always go for The San Juan Star over El Nuevo Dia. I learned to program at a very young age by reading books written in English and asking for help on newsgroups. I even blogged for an English language website when I was 13, even though that word didn't exist until almost 5 years later.
 
 That leaves local news and my friends' updates as the only things I might read in Spanish in a normal day. Not the best way to improve my written Spanish, I'll admit, but that's the way I grew up.
 

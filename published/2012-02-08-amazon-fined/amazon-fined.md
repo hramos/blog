@@ -5,7 +5,11 @@ title: "On Amazon Prime, free Super Saver Shipping and Silly Fines"
 date: 2012-02-08 12:00
 comments: true
 categories: PuertoRico
-keywords: amazon, shipping, electronic exports information, puerto rico
+keywords:
+- amazon
+- shipping
+- electronic exports information
+- puerto rico
 ---
 
 Amazon offers free Super Saver shipping on all orders over $25. For years, this benefit applied to all shipping within the United States, Puerto Rico included. Eventually, Amazon introduced the Amazon Prime program, where for a $79 annual fee, consumers could get free two day shipping on all orders, regardless of the total transaction amount. This, however, didn't apply to Puerto Rico. The reasoning for it is obvious: we are an island, and the only way to get two day shipping is by air. While Amazon could recoup costs by using ground shipping for all orders made within a given distance of one of their warehouses, this is just not possible for Puerto Rico (or Hawaii, for that matter).

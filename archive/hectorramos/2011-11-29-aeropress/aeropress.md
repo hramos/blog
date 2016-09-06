@@ -6,7 +6,9 @@ time: 2011-11-29 1:15:00 -04:00
 comments: true
 keywords:
 - aeropress
-- coffee
+- coffee at work
+- brewing coffee at work
+- office coffee
 categories: coffee
 ---
 

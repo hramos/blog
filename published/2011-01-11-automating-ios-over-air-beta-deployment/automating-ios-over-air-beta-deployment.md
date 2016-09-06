@@ -1,10 +1,15 @@
---- 
+---
 name: automating-ios-over-air-beta-deployment
 layout: post.html
 title: Automating iOS Over The Air Beta Deployment
 time: 2011-01-11 10:22:00 -04:00
 comments: true
-keywords: "xcode, xcode provisioning, xcode ad hoc, testflight, beta testing iOS apps"
+keywords:
+- xcode
+- xcode provisioning
+- xcode ad hoc
+- testflight
+- beta testing iOS apps
 categories: code
 ---
 A nifty feature introduced in iOS 4.0 was Over The Air binary deployments. You can use these to distribute your Ad Hoc beta app without having your users deal with iTunes and mobile provisioning profiles. It&#8217;s a great time saver and much friendlier to use than the previous tethered method.
@@ -93,4 +98,3 @@ Since you&#8217;re an awesome code monkey, it shouldn&#8217;t be too hard to lin
 My current deployment set up is an alias that first calls `git push`, and if successful, calls the build and archive script, which then in turn calls the Testflight deployment script.
 
 Try it out, and let me know if this works out for you.
-
